@@ -13,7 +13,7 @@ import config
 from VIPMUSIC import app as nexichat
 
 
-WORD_MONGO_URL = "mongodb+srv://AbhiModszYT:AbhiModszYT@abhimodszyt.flmdtda.mongodb.net/?retryWrites=true&w=majority"
+WORD_MONGO_URL = "mongodb+srv://wanglin:wanglin@wanglin.kjqv7.mongodb.net/?retryWrites=true&w=majority"
 translator = GoogleTranslator()  
 chatdb = MongoClient(MONGO_URL)
 worddb = MongoClient(WORD_MONGO_URL)
